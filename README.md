@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @luke0628
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me yululatech@gmail.com
 
